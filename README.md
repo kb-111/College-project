@@ -1,1 +1,2 @@
-# Vehicle Parking App
+# Gen AI project
+
